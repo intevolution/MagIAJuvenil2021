@@ -50,7 +50,7 @@ var numero1 = 125;
 var numero2 = 50;
 var numero3 = 30;
 
-//Ejemplo, crear condiciones utilizando las variables declaradas anteriormente y 
+//Ejemplo - Crear condiciones utilizando las variables declaradas anteriormente y 
 //desplegar un mensaje si se cumple la condición de cada una de ellas
 
 //Condicional if - Dependiendo de la condición ejecutará las instrucciones dentro de las llaves {}.
