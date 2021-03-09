@@ -20,13 +20,17 @@ const mensaje = "Bienvenido a Ciudad Rio Verde";
 console.log( mensaje );
 
 //Características de una persona
+//En las siguientes líneas de código, se declaran variables o 
+//constantes para describir las características de una persona
 const nombre = "Diego";
 const apellidoPaterno = "Perez";
 const apellidoMaterno = "Dominguez";
 var edad = 15;
 const lugarNacimiento = "México";
 
-//Ejercicio - Características de un Coche
+//Ejercicio - Describe 5 características de un coche.
+//Si el valor cambia, se debe declarar como variable, 
+//si el valor no cambia, se debe declarar como constante.
 var placa = "HHF-453";
 const modelo = "Corolla";
 const marca = "Toyota";
