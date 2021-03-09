@@ -5,6 +5,7 @@
 
 //Ejercicio de repaso de la semana 1
 
+//Enunciado
 //Para calcular el promedio de prácticas de un curso 
 //se tomará la calificación de las 4 prácticas que se 
 //hicieron, de estas 4 se va a eliminar la práctica con 
@@ -20,13 +21,15 @@ var resultado = 0;
 // Variable que controlará que calificación es la más baja
 var califMenor = practicaN1;
 
-//Condicional IF - Comparará entre las calificaciones y si alguna es menor, sustituirá la calificación actual
+//if - Comparará si la práctica 2 es menor a califMenor, si lo es, convierte la practica 2 a la calificación más baja
 if( practicaN2 < califMenor ){
     califMenor = practicaN2;
 }
+//else if - Comparará si la práctica 3 es menor a califMenor, si lo es, convierte la practica 3 a la calificación más baja
 else if( practicaN3 < califMenor ){
     califMenor = practicaN3;
 }
+//else - Si las condiciones anteriores no se han cumplido, convierte la práctica 4 a la calificación más baja
 else if( practicaN4 < califMenor ){
     califMenor = practicaN4;
 }
