@@ -29,6 +29,11 @@ const arregloNombres = [ "Luis", "Erick", "Diego", "Ana"];
 const arregloMixto = [ 500, "Luis", 10, "Erick" ];
 
 //Tipo de dato "Object" - Objeto( Entidad de la vida real )
+//Ejemplo - Con base en las características de una persona 
+//descritas en el programa "tiposDeclaración.js", se
+//hará su representación a objeto, esto consiste en
+//guardar sus características dentro de una unica variable.
+
 //Objeto persona
 var persona = { 
     nombre: "Diego",
