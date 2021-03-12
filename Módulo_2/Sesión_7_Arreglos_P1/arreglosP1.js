@@ -33,6 +33,12 @@ console.log("La cantidad de elementos" + " en el arreglo es: " + arregloNombres.
 arregloNombres.push( "Cristina" );
 console.log( arregloNombres );
 
+//Enlace de la documentación que muestra todos los métodos de arreglos
+//https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+//En esta página encontrarás muchos métodos con los que podrás practicar tus habilidades en programación
+
+
+
 //Borramos un elemento al final del arreglo
 arregloNombres.pop();
 console.log( arregloNombres );
