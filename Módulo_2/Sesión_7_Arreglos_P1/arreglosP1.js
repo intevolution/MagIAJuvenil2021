@@ -114,3 +114,10 @@ var concatenaN2 = [ "Adios", "Buenas", "Noches" ];
 //Utilizamos el método concat para concatenar los 2 arreglos 
 //y a su vez, imprimimos el resultado final.
 console.log( concatenaN1.concat( concatenaN2 ) );
+
+//Enlace a la documentación oficial de JavaScript
+//https://developer.mozilla.org/es/docs/Web/JavaScript
+//https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+//En este enlace podrás encontrar todos los métodos de arreglos que hay,
+//con ellos podrás seguir practicando como lo hemos estado haciendo en clase.
+
