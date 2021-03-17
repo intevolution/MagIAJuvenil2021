@@ -17,7 +17,7 @@
 //descarguemos con el tiempo, en este caso
 //necesitamos el paquete "prompt" para ingresar
 //los datos.
-//En terminal escribimos el siguiente comando ---> npm install npm@latest -g
+//En terminal escribimos el siguiente comando ---> npm install latest-version
 //Después escribimos el siguiente comando ---> npm install prompt-sync
 //IMPORTANTE: NO cambiar los comandos, si son modificados no instalará nada.
 
