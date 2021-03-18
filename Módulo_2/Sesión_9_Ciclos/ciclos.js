@@ -69,3 +69,17 @@ do{
 }while( recibeNumero != 0 );
 //Imprimimos en pantalla el resultado final
 console.log( "La suma total es: " + suma);
+
+//Ejercicio anterior pero con while
+//Recibimos un texto, que serán los números a sumar
+recibeNumero = prompt( "Dame un número " );
+//Si el valor es igual a 0, se dentendrá el ciclo
+while( recibeNumero != 0 ){
+    suma = suma + parseInt( recibeNumero );
+    //Recibimos un texto, que serán los números a sumar, lo repetimos
+    //por que sin esta instrucción, el ciclo no se detendría nunca
+    recibeNumero = prompt( "Dame un múmero " );  
+}
+console.log( "La suma total con while es: " + suma );
+
+
