@@ -1,0 +1,32 @@
+Para que nosotros ingresemos datos desde  
+terminal y esos datos ingresados sean usados 
+para el procedimiento del programa,
+necesitamos realizar los siguientes pasos:
+
+Paso 1)
+Installar npm, este es un componente de nodejs,
+su función es administar los paquetes que 
+descarguemos con el tiempo, en este caso
+necesitamos el paquete "prompt" para ingresar
+los datos.
+
+En terminal escribimos el siguiente comando ---> npm install latest-version
+Después escribimos el siguiente comando ---> npm install prompt-sync
+IMPORTANTE: NO cambiar los comandos, si son modificados no instalará nada.
+
+Paso 2)
+Mandar a llamar a la funcionalidad que requerimos,
+esta funcionalidad solo debemos llamarla una vez y
+tiene que ser guardada en una constante para que
+no sea modificada por accidente.
+Para mandar a llamar a la funcionalidad, dentro del programa
+escribimos la siguiente instrucción:
+
+const prompt = require('prompt-sync')();
+
+Paso 3)
+Al momento de utilizar esta funcionalidad, solo la
+guardamos en una variable y escribirmos entre
+paréntesis el mensaje a desplegar en pantalla.
+
+var nombreVariable = prompt("Ingresa el mensaje que quieres mostrar");
