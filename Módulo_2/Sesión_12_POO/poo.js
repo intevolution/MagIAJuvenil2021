@@ -74,3 +74,24 @@ console.log( galletaChocolate );
 //alguna de las 2 formas descritas anteriormente
 console.log( galletaChocolate.sabor );
 //console.log( galletaVainilla[ "sabor" ]);
+
+
+//Comparación con objetos
+var frutaN1 = { nombre: "manzana" }
+var frutaN2 = { nombre: "manzana" }
+
+//Caso N1 - Comparar 2 objetos con el mismo contenido
+//Aunque estos 2 objetos tienen el mismo contenido,
+//cuando utilicemos el operador de igualdad, dará como
+//resultado "Falso", porque no son el mismo objeto.
+var resultado = ( frutaN1 == frutaN2 );
+console.log( resultado );
+
+//Caso N2 - Comparar 2 objetos pero uno de ellos recibe el contenido de otro
+//Aqui no hay problema, ya que lo que se guarda es la referencia al objeto
+//y si los 2 tienen la misma referencia, dará un resultado "True" o "Verdadero"
+//OJO ----- Esto solo pasa con los Objetos
+var frutaN3 = frutaN1;
+var resultadoN2 = ( frutaN3 == frutaN1 );
+console.log( resultadoN2 );
+
