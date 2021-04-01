@@ -1,0 +1,48 @@
+<!-- Código de la Sesión #2 del Módulo 3 -->
+
+<!--Para ejecutar este programa debemos abrirlo con un navegador -->
+<!-- Llendo a la ubiación del destino y dando doble click izquierdo -->
+
+<!-- Tema --- Protocolos de comunicación WEB -->
+<!-- Enlace a la documentación oficial de mozilla: https://developer.mozilla.org/es/docs/Web/HTML -->
+
+<!-- Especificamos que será un documento HTML -->
+<!DOCTYPE html>
+<!-- Etiqueta html que abre, es fundamental
+para el cuerpo de cualquier página web -->
+<html>
+    <!-- Etiqueta de cabecera,, da información al navegador web-->
+    <head>
+        <!-- Damos un título a la página, se verá ese
+        nombre en la pestaña del navegador -->
+        <title> Mi primera página </title>
+        <!-- Agregamos un icono personalizado a la pestaña de la página -->
+        <link rel="icon" type = "image/png" href = "dona.png">
+        <!-- Definimos un formato de codificación, osea especificamos que 
+        queremos utilizar un formato de los caracteres para no tener
+        problemas con ellos, como por ejemplo las palabras con acentos -->
+        <meta charset="UTF-8">
+    </head>
+    <!-- El cuerpo de la página web, lo que verá el usuario -->
+    <body>
+        <!-- Creamos una división en nuestra página para
+        poner un cierto contenido separado de otro -->
+        <!-- Alineamos esta división al centro -->
+        <div align = "center" >
+            <!-- Creamos un título que tendrá la letras mas grandes y en negritas -->
+            <h1> Protocolos de comuninación WEB </h1>
+            <!-- Creamos un enlace para dirigirnos a otra página -->
+            <a href = "https://github.com/intevolution/MagIAJuvenil2021/tree/main/M%C3%B3dulo_2">Enlace a repositorio</a>
+            <!-- Creamos un párrafo para agregar una cantidad de texto -->
+            <!-- Con la etiqueta br hacemos un salto de línea, osea se 
+            escribe el resto de texto en la línea siguiente -->
+            <p>Hola a todos los participantes, gracias por estar presentes,<br> espero que les esté gustando la sesión</p>
+            <!-- Obtenemos una imagen desde una cierta localización -->
+            <img src = "dona.png">
+        </div>
+        <div align = "center" >
+            <!-- Obtenemos un vídeo de youtube para reproducirlo en nuestra página web -->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jugBQqE_2sM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </body>
+</html>
