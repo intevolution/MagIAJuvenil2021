@@ -1,0 +1,12 @@
+Este documento de texto es para que siempre los participantes tengan presente
+donde pueden obtener más información sobre html de páginas oficiales.
+
+Documentación de W3C:
+https://www.w3.org/TR/2017/REC-html52-20171214/introduction.html#background
+
+Documentación de Mozilla:
+https://developer.mozilla.org/es/docs/Web/HTML
+
+En cada una de ellas se encontrará toda la información que tiene
+que ver con html, además contienen diversos ejemplos de cada etiqueta
+para que de una forma sencilla puedas ver como aplicarlo en programación.
