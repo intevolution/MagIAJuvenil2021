@@ -1,0 +1,12 @@
+/* Comentario en CSS */
+/* Agregamos un estilo para el cuerpo de la página */
+body{
+    /* Cambiamos el color del fondo de la página */
+    background-color: rgb(73 , 159 , 222);
+    /* Cambiamos el color del texto */
+    color: white;
+    /* Cambiamos el estilo de la letra de la página */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* Movemos el contenido del cuerpo una cantidad de unidades */
+    padding-left: 5em;
+}
