@@ -10,3 +10,19 @@ https://developer.mozilla.org/es/docs/Web/HTML
 En cada una de ellas se encontrará toda la información que tiene
 que ver con html, además contienen diversos ejemplos de cada etiqueta
 para que de una forma sencilla puedas ver como aplicarlo en programación.
+
+Textos de ejemplos para ponerlos en tu página web
+https://es.lipsum.com/
+
+Colores para agregar en tu página web, OJO - Tomar solo RGB
+https://htmlcolorcodes.com/es/
+
+Documentación para entender mejor sobre margin
+https://developer.mozilla.org/es/docs/Web/CSS/margin
+
+Ideas para estructurar tu página web
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Diferentes tipos de listas
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_list-style-type_all
+
