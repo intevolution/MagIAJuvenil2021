@@ -1,0 +1,59 @@
+<!-- Código de la Sesión #3 del Módulo 3 -->
+
+<!--Para ejecutar este programa debemos abrirlo con un navegador -->
+<!-- Llendo a la ubiación del destino y dando doble click izquierdo -->
+
+<!-- Tema --- Servidores Web Parte 1 -->
+
+<!-- Especificamos que será un documento HTML -->
+<!DOCTYPE html>
+<!-- Etiqueta html que abre, es fundamental
+para el cuerpo de cualquier página web -->
+<html>
+    <!-- Etiqueta de cabecera,, da información al navegador web-->
+    <head>
+        <!-- Título de la página web -->
+        <title> Mi segunda página </title>
+        <!-- Ponemos la codificación UTF-8 para no tener problemas con caracteres especiales -->
+        <meta charset = "UTF-8">
+        <!-- Agregamos un icono personalizado para la página -->
+        <link rel = "icon" type = "image/png" href="dona.png">
+        <!-- Le decimos que los estilos de la página se obtendrán de un archivo CSS -->
+        <link rel = "stylesheet" href="miestilo.css">
+    </head>
+    <!-- El cuerpo de la página web, lo que verá el usuario -->
+    <body>
+        <!-- Agregamos una etiqueta div, el cual divide en distintos bloques a la página web -->
+        <div >
+            <!-- Se agrega una lista "no ordenada", esta no tendrá una numeración -->
+            <!-- Se agrega un nombre "navbar" para que en el archivo de estilos podamos trabajar específicamente sobre él -->
+            <ul class = "navbar" >
+                <!-- Para específicar un elemento de la lista ponemos una etiqueta li -->
+                <!-- Si estos elementos los queremos convertir en enlaces, ponemos una etiqueta "a" -->
+                <li><a href="https://github.com/intevolution/MagIAJuvenil2021/tree/main/M%C3%B3dulo_3">Página principal</a></li>
+                <li><a href="https://github.com/intevolution/MagIAJuvenil2021/tree/main/M%C3%B3dulo_2">Página secundaria</a></li>
+                <li>Sobre nosotros</li>
+                <li>Más información</li>
+            </ul>
+        </div>
+        <div>
+            <!-- Creamos un título que tendrá la letras mas grandes y en negritas -->
+            <h1>Mi segunda página web</h1>
+            <!-- Creamos un párrafo para agregar una cantidad de texto -->
+            <p>
+            <!-- Agregamos un texto de ejemplo que ocupe una buena cantidad de espacio -->
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br> 
+                sed do eiusmod tempor incididunt ut labore et dolore magna <br>
+                aliqua. Ut enim ad minim veniam, quis nostrud exercitation <br>
+                ullamco laboris nisi ut aliquip ex ea commodo consequat.   <br>
+                Duis aute irure dolor in reprehenderit in voluptate velit  <br>
+                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint<br>
+                occaecat cupidatat non proident, sunt in culpa qui officia <br>
+                deserunt mollit anim id est laborum." 
+            </p>
+            <!-- Agregamos una imagen a la página web -->
+            <!-- IMPORTANTE - Poner siempre la dirección de la imagen -->
+            <img src = "./imagenes/dona.png" >
+        </div>
+    </body>
+</html>
