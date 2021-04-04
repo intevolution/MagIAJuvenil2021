@@ -1,0 +1,48 @@
+/* Código de la Sesión #4 del Módulo 3 */
+
+/* Este programa no se ejecutar como tal, sino que se
+ejecuta en conjunto con el html en el navegador web */
+
+/* Tema --- Servidores Web Parte 2 */
+
+/* Comentario en CSS */
+/* Agregamos un estilo para el cuerpo de la página */
+body{
+    /* Cambiamos el color del fondo de la página */
+    background-color: rgb(73 , 159 , 222);
+    /* Cambiamos el color del texto */
+    color: white;
+    /* Cambiamos el estilo de la letra de la página */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* Movemos el contenido del cuerpo una cantidad de unidades */
+    padding-left: 5em;
+}
+/*Agregamos estilos a la lista a la cual le dimos el nombre de navbar*/
+ul.navbar{
+    /*Quitamos los simbolos de la lista, por lo tanto desaparecen 
+    los puntos de cada elemento de la lista*/
+    list-style-type: none;
+    /*No damos ningun espacio entre el contenido y la pagina*/
+    padding: 0;
+    /*No le damos ningun margen a este elemento*/
+    margin: 0;
+    /*Cambiamos su posición para que pueda ponerse donde nosotros queramos*/
+    position: absolute;
+    /*Damos distintas posiciones de manera manual, del lado superior y del lado izquierdo*/
+    top: 2em;
+    left: 1em;
+    /*Indicamos el ancho de la lista será de unidades de medida*/
+    width: 9em;      
+}
+/*Agregamos estilos a cada elemento de la lista*/
+ul.navbar li{
+    /*Cambiamos el fondo de cada elemento de la lista */
+    background: white;
+    /*Definimos un espacio entre cada elemento */
+    /*Ojo, son 4 números Arriba, Derecha, Abajo, Izquierda*/
+    margin: 0.5em 0 0 0.5em;
+    /*Indicamos un espacio entre cada elementos y los demás*/
+    padding: 0.5em;
+    /*Cambiamos de color un borde, quedando negro mejorando el diseño*/
+    border-right: 1em solid black;
+}
