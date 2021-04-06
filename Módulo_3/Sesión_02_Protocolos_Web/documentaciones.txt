@@ -23,6 +23,21 @@ https://developer.mozilla.org/es/docs/Web/CSS/margin
 Ideas para estructurar tu página web
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
-Diferentes tipos de listas
+Buenas prácticas de HTML
+https://www.w3schools.com/html/html5_syntax.asp
+
+Distintos tipos de listas en css
+https://www.w3schools.com/cssref/pr_list-style-type.asp
+
+Ejemplos de distintas listas
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_list-style-type_all
+
+Pasos para subir tu página a GitHub
+https://developer.mozilla.org/es/docs/Learn/Common_questions/Using_Github_pages
+https://devcode.la/tutoriales/publicar-tu-web-usando-github-pages/
+
+
+
+
+
 
