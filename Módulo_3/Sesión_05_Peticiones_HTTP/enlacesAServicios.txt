@@ -1,0 +1,24 @@
+Sesión 5 del módulo 3
+
+Tema ---> Peticiones HTTP
+
+Enlaces de servicios Web:
+
+Servicio de clima
+https://openweathermap.org/
+
+Servicio de películas 
+http://www.omdbapi.com/
+
+Servicio de imagenes aleatorias de gatos
+https://aws.random.cat/view/304
+
+Servicio de imagenes aleatorio de perros
+https://dog.ceo/dog-api/
+
+Servicios Cognitvos de Microsoft
+https://azure.microsoft.com/es-mx/services/cognitive-services/
+
+Repositorio en donde se encuentras distintos tipos de servicios web
+https://github.com/public-apis/public-apis
+
