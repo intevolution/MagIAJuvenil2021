@@ -28,3 +28,15 @@ https://azure.microsoft.com/es-mx/services/cognitive-services/
 Repositorio en donde se encuentras distintos tipos de servicios web
 https://github.com/public-apis/public-apis
 
+Enlaces a documentaciones de los módulos de NodeJS
+
+Documentación al módulo HTTP
+https://nodejs.org/api/http.html
+
+Documentación al módulo HTTPS
+https://nodejs.org/api/https.html
+
+Documentación al módulo Axios
+https://www.npmjs.com/package/axios
+
+
