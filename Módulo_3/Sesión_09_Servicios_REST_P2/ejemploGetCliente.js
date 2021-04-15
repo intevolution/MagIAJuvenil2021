@@ -1,3 +1,6 @@
+//Documentación de el módulo https
+//https://nodejs.org/api/https.html
+
 //Importamos el módulo https para poder crear una petición
 const https = require('https');
 
