@@ -1,0 +1,18 @@
+Enlaces de los materiales utilizados en la sesión 1 del módulo 4
+
+Documentación sobre Microsoft Learn
+https://docs.microsoft.com/es-es/learn/certifications/exams/ai-900
+
+Servicios Cognitivos de Microsoft Azure
+https://azure.microsoft.com/es-mx/services/cognitive-services/
+
+Vídeos sobre IA en la vida real
+
+Vídeo sobre empresa agricola
+https://www.youtube.com/watch?v=G-gdTgO4l9M
+
+Vídeo sobre aplicación para la traducción de habla a texto
+https://www.youtube.com/watch?v=vvia6m409ow
+
+Vídeo sobre aplicación que permite accesibilidad a las personas impedidas de la vista
+https://www.youtube.com/watch?v=DybczED-GKE
