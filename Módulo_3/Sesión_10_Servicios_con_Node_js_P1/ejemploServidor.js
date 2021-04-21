@@ -1,3 +1,11 @@
+//Código de la Sesión #10 del Módulo 3
+
+//Este código todavía no se puede ejecutar, se tiene que ir a la versión de la sesión 11
+//para que se vea el ejemplo completo, ya que en este programa únicamente se contempla a 
+//un servicio web que nos regresa un mensaje y falta un servidor web en donde pueda vivir.
+
+//Tema ----> Servicios con Nodejs P1
+
 //Documentación del módulo http
 //https://nodejs.org/api/http.html
 
