@@ -1,0 +1,6 @@
+
+Servicio Cognitivo de Visión Artificial
+
+Llave: ca5024dcced847b288728a78a4420c17
+
+Punto de Acceso: https://serviciovisionartificial.cognitiveservices.azure.com/
