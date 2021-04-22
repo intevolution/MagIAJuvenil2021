@@ -1,0 +1,25 @@
+Enlaces de la Sesión 2 del módulo 4
+
+Para la creación de proyectos con inteligencia artificial desde 0,
+se tienen que seguir ciertas fases, para cada una de ellas se va a
+compartir un enlace para que tengan más información al respecto.
+
+Fases en general
+https://docs.microsoft.com/es-es/azure/machine-learning/team-data-science-process/overview
+
+Fases de forma más específica
+1- Conocimiento del negocio:
+https://docs.microsoft.com/es-es/azure/machine-learning/team-data-science-process/lifecycle-business-understanding
+
+2- Adquisición y comprensión de los datos:
+https://docs.microsoft.com/es-es/azure/machine-learning/team-data-science-process/lifecycle-data
+
+3- Modelado:
+https://docs.microsoft.com/es-es/azure/machine-learning/team-data-science-process/lifecycle-modeling
+
+4- Implementación:
+https://docs.microsoft.com/es-es/azure/machine-learning/team-data-science-process/lifecycle-deployment
+
+5- Aceptación del cliente:
+https://docs.microsoft.com/es-es/azure/machine-learning/team-data-science-process/lifecycle-acceptance
+
