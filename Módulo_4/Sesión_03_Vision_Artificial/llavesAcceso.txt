@@ -6,6 +6,6 @@ Región: Centro Sur EU (Región Norte)
 
 Llave: 9f8839e9bd4e446c8d1bfad49bd6db72
 
-Punto de Acceso: https://southcentralus.api.cognitive.microsoft.com/
+Punto de Acceso: https://serviciovisionnorte.cognitiveservices.azure.com/
 
 
