@@ -4,17 +4,8 @@ Llaves y puntos de acceso utilizados en la sesión 3 del módulo 4
 
 Región: Centro Sur EU (Región Norte)
 
-Llave: 
+Llave: 9f8839e9bd4e446c8d1bfad49bd6db72
 
-Punto de Acceso:
-
-Ruta de la región: 
+Punto de Acceso: https://southcentralus.api.cognitive.microsoft.com/
 
 
-Región: Sur de Brasil (Región Sur)
-
-Llave: 
-
-Punto de Acceso:
-
-Ruta de la región: 
