@@ -1,0 +1,22 @@
+Pasos para hacer uso del servicio de visión artificial
+
+Para que nosotros podamos hacer uso del servicio debemos hacer distintos pasos
+
+1) Tener a la mano tanto la llave como el punto de acceso
+
+2) En Postman debemos crear una nueva petición 
+
+3) Seleccionar el método http POST
+
+4) Crear la petición utilizando el punto de acceso, esto se hará de la siguiente manera:
+-->Empieza con el punto de acceso
+-->Agregar la funcionalidad a la cual vamos a acceder
+-->Especificar los parámetros de la petición
+
+5) Agregar la configuración de la cabecera de la petición, estos se llaman "headers"
+
+6) Agregar el cuerpo de la petición o también llamado "body", seleccionar el apartado
+   "raw" y agregar el enlace de la foto a analizar con la siguiente estructura:
+   {"url":"Tu enlace va dentro de las comillas"}
+   
+7) Mandar la petición con el botón "Send"
