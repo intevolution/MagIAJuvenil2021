@@ -1,6 +1,20 @@
+Llaves y puntos de acceso utilizados en la sesión 3 del módulo 4
 
-Servicio Cognitivo de Visión Artificial
+------Servicio Cognitivo de Visión Artificial------
 
-Llave: ca5024dcced847b288728a78a4420c17
+Región: Centro Sur EU (Región Norte)
 
-Punto de Acceso: https://serviciovisionartificial.cognitiveservices.azure.com/
+Llave: 
+
+Punto de Acceso:
+
+Ruta de la región: 
+
+
+Región: Sur de Brasil (Región Sur)
+
+Llave: 
+
+Punto de Acceso:
+
+Ruta de la región: 
