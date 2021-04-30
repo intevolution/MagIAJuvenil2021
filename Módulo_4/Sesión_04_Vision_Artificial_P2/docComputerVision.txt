@@ -1,0 +1,49 @@
+//Servicio Vision Artificial
+
+//Funcionalidad Análisis
+
+//URL de la petición
+https:// ( punto de acceso) /vision/v3.0/?( parámetros )
+
+//Parámetros
+visualFeatures  -> Tipos de características que regresará en el resultado
+                -> Categories  - Regresa las categorías acordes a la estructura de la foto
+                -> Color       - Regresa el color o colores predominantes en las fotos
+                -> Description - Regresa la descripción de la imagen en un cierto idioma (dado en parámetros)
+                -> Faces       - Detecta si hay rostros presentes
+                -> Tags        - Regresa las etiquetas que describen la imagen
+                
+details         -> Cierta característica específica a buscar en la foto
+                -> Celebrities - Detecta celebridades en la foto
+                -> Landmarks   - Detecta lugares en la foto
+
+language        -> Idioma en el que se va a regresar la respuesta
+                -> en - Ingles, por defecto.
+                -> es - Español.
+                -> ja - Japones.
+                -> pt - Portugues.
+                -> zh - Chino.
+
+//Cabecera - Headers
+Content-Type -> Tipo de contenido que se va a mandar en la petición
+
+Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
+
+//Funcionalidad Descripción
+//URL de la petición
+https:// ( punto de acceso) /vision/v3.0/describe?( parámetros )
+
+//Parámetros
+maxCandidates -> Número de descripciones candidatas para la foto
+
+language      -> Idioma en el que se va a regresar la respuesta
+              -> en - Ingles, por defecto.
+              -> es - Español.
+              -> ja - Japones.
+              -> pt - Portugues.
+              -> zh - Chino.
+
+//Cabecera - Headers
+Content-Type -> Tipo de contenido que se va a mandar en la petición
+
+Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
