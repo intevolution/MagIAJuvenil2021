@@ -7,22 +7,26 @@
 
 //Tema ----> Visión artificial Caso práctico
 
+//Llamamos a la librería axios para realizar peticiones
 const axios = require('axios');
 
-//Datos
+//Declaramos la variable que guardará el enlace de la foto a analizar
 var datos = { url : "URL de la imagen"} ;
 
-//Dirección de la petición( endpoint, punto de acceso )
+//Guardamos la dirección del servicio ( endpoint, punto de acceso ) en una variable
 var direccion = 'URL del servicio cognitivo';
 
-//Petición POST
+//Con axios realizamos la petición POST 
 axios.post( direccion, datos, {
-    //Cabecera de la petición
-    headers : { 'Ocp-Apim-Subscription-Key': '9f8839e9bd4e446c8d1bfad49bd6db72', 
-                'Content-type': 'application/json'
+    //Definimos los atributos de la cabecera
+    headers : { 
+        //Entro de estos atributos debemos definir el atributo de la llave y el tipo de info que se mandará        
+        'Ocp-Apim-Subscription-Key': 'Aquí va la llave', 
+        'Content-type': 'application/json'
     } 
 })
-//Caso en donde se lográ obtener una respuesta del servicio
+//Usamos la función then para definir el caso de exito donde nos regresa la información,
+//Dentro de esta, escribimos una función flecha, que nos ayudará a trabajar con nuestro resultado
 .then( respuesta => console.log( respuesta.data.categories[1].detail ))
-//Caso en donde el servicio nos devuelve un error
+//Definimos el caso de error, solamente se obtendrá el error de la petición y se mostrará en consola 
 .catch( error => { console.log( error ) });
