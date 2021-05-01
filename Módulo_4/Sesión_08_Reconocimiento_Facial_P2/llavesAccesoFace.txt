@@ -4,6 +4,6 @@ Llaves y puntos de acceso utilizados en la sesión 8 del módulo 4
 
 Región: Centro Sur EU 
 
-Llave: 
+Llave: 326d364a0fbe4a39998455172d1a3b46
 
-Punto de Acceso: 
+Punto de Acceso: https://servicioface.cognitiveservices.azure.com/
