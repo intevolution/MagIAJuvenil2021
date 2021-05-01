@@ -1,0 +1,9 @@
+Llaves y puntos de acceso utilizados en la sesión 8 del módulo 4
+
+------Servicio Cognitivo de Reconocimiento Facial------
+
+Región: Centro Sur EU 
+
+Llave: 
+
+Punto de Acceso: 
