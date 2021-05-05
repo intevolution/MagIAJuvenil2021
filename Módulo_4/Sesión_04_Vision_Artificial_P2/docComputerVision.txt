@@ -1,5 +1,8 @@
 //Servicio Vision Artificial
 
+//Documentación Oficial de Microsoft
+https://docs.microsoft.com/es-mx/azure/cognitive-services/computer-vision/
+
 //Funcionalidad Análisis
 
 //URL de la petición
