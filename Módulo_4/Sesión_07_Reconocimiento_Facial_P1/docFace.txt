@@ -2,3 +2,42 @@
 
 //Documentación Oficial de Microsoft
 https://docs.microsoft.com/es-mx/azure/cognitive-services/face/
+
+//Funcionalidad: Detección de rostros
+
+//URL de la petición
+https:// ( punto de acceso) /vision/v3.0/?( parámetros )
+
+//Parámetros
+
+returnFaceId          -> Regresa el identificador que se guarda en el servicio
+
+returnFaceAttributes  -> Regresa distintos atributos de la cara
+                      -> age          -> Regresa la edad aproximada del rostro
+                      -> gender       -> Regresa el sexo identificado del rostro
+                      -> smile        -> Nos dice si está sonriendo o no
+                      -> facialHair   -> Regresa el vello facial ya sea la barba, bigote o patillas
+                      -> glasses      -> Nos dice si el rostro porta gafas o no
+                      -> emotion      -> Nos muestra las emociones identificadas en el rostro
+                      -> makeup       -> Nos dice si el rostro tiene maquillaje en ojo o labios
+                      
+faceIdTimeToLive      -> Ingresamos el tiempo de vida de los identificadores, de 60 segundos a 86400 segundos (24 horas)                  
+
+//Cabecera - Headers
+Content-Type -> Tipo de contenido que se va a mandar en la petición
+
+Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
+
+
+//Funcionalidad: Verificación de rostros
+
+//URL de la petición
+https://( punto de acceso)/face/v1.0/verify
+
+//Parámetros
+No tiene parámetros
+
+//Cabecera - Headers
+Content-Type -> Tipo de contenido que se va a mandar en la petición
+
+Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
