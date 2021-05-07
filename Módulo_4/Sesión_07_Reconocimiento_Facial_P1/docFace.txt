@@ -6,7 +6,7 @@ https://docs.microsoft.com/es-mx/azure/cognitive-services/face/
 //Funcionalidad: Detección de rostros
 
 //URL de la petición
-https:// ( punto de acceso) /vision/v3.0/?( parámetros )
+https://( punto de acceso )/vision/v3.0/?( parámetros )
 
 //Parámetros
 
@@ -24,7 +24,7 @@ returnFaceAttributes  -> Regresa distintos atributos de la cara
 faceIdTimeToLive      -> Ingresamos el tiempo de vida de los identificadores, de 60 segundos a 86400 segundos (24 horas)                  
 
 //Cabecera - Headers
-Content-Type -> Tipo de contenido que se va a mandar en la petición
+Content-Type              -> Tipo de contenido que se va a mandar en la petición
 
 Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
 
@@ -38,6 +38,6 @@ https://( punto de acceso)/face/v1.0/verify
 No tiene parámetros
 
 //Cabecera - Headers
-Content-Type -> Tipo de contenido que se va a mandar en la petición
+Content-Type              -> Tipo de contenido que se va a mandar en la petición
 
 Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
