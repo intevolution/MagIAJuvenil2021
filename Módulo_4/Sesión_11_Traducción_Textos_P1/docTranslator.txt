@@ -1,0 +1,3 @@
+//Documentación oficial del servicio Translator Text
+
+https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/
