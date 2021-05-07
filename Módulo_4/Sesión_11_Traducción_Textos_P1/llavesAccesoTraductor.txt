@@ -1,0 +1,9 @@
+Llaves y puntos de acceso utilizados en la sesión 11 del módulo 4
+
+------Servicio Cognitivo de Traducción de Textos------
+
+Región: southcentralus 
+
+Llave: 58f9f4075c9c46bca61a78cfc71a45b6
+
+Punto de Acceso: https://api.cognitive.microsofttranslator.com/
