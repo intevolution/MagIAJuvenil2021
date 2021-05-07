@@ -6,7 +6,7 @@ https://docs.microsoft.com/es-mx/azure/cognitive-services/computer-vision/
 //Funcionalidad Análisis
 
 //URL de la petición
-https:// ( punto de acceso) /vision/v3.0/?( parámetros )
+https://( punto de acceso)/vision/v3.0/?( parámetros )
 
 //Parámetros
 visualFeatures  -> Tipos de características que regresará en el resultado
