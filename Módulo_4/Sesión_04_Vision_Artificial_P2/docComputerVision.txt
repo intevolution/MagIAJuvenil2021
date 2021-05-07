@@ -28,7 +28,7 @@ language        -> Idioma en el que se va a regresar la respuesta
                 -> zh - Chino.
 
 //Cabecera - Headers
-Content-Type -> Tipo de contenido que se va a mandar en la petición
+Content-Type              -> Tipo de contenido que se va a mandar en la petición
 
 Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
 
@@ -47,6 +47,6 @@ language      -> Idioma en el que se va a regresar la respuesta
               -> zh - Chino.
 
 //Cabecera - Headers
-Content-Type -> Tipo de contenido que se va a mandar en la petición
+Content-Type              -> Tipo de contenido que se va a mandar en la petición
 
 Ocp-Apim-Subscription-Key -> La llave para tener acceso al servicio
