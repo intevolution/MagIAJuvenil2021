@@ -1,3 +1,35 @@
 //Documentación oficial del servicio Translator Text
 
 https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/
+
+//Funcionalidad: Traducción de textos
+
+//URL de la petición
+https://( punto de acceso)/translate?api-version=3.0&( parámetros )
+
+//Parámetros
+
+from    -> Indicamos el idioma desde el cual mandandamos el texto
+
+to      -> Indicamos el idioma al que queremos traducir
+
+//Cabecera - Headers
+
+Content-Type                  -> Tipo de contenido que se va a mandar en la petición
+
+Ocp-Apim-Subscription-Key     -> La llave para tener acceso al servicio
+
+Ocp-Apim-Subscription-Region  -> La región donde se encuentra el servicio
+
+NOTA: Aunque en la documentación diga que es obligatorio "Content-Length" en la cabecera,
+      al mandar la petición nos dará un error, por lo cual debemos quitarlo para obtener
+      un resultado positivo.
+    
+      
+//Funcionalidad: Transliteración
+
+Por definir
+
+//Funcionalidad: Detección de idioma
+
+Por definir
