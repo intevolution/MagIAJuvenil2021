@@ -2,6 +2,13 @@
 
 https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/
 
+//Funcionalidad: Ver todos los idiomas soportados por este servicio
+
+//URL de la petición
+https://api.cognitive.microsofttranslator.com/languages?api-version=3.0
+
+NOTA: Al ser una petición GET, solo será necesario usar el url para obtener los datos que necesitamos
+
 //Funcionalidad: Traducción de textos
 
 //URL de la petición
