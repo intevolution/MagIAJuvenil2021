@@ -1,0 +1,13 @@
+Documentación al servicio Traductor
+
+Ver los lenguajes soportados por el servicio
+https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/reference/v3-0-languages
+
+Funcionalidad de traducción
+https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/reference/v3-0-translate
+
+Funcionalidad de transliteración
+https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/reference/v3-0-transliterate
+
+Funcionalidad de detección de idioma
+https://docs.microsoft.com/es-mx/azure/cognitive-services/translator/reference/v3-0-detect
