@@ -5,7 +5,7 @@
 //Para ejecutar este programa debemos poner en consola:
 //node postTraducción.js
 
-//Tema ----> Reconocimiento Facial Caso práctico
+//Tema ----> Traducción de textos caso práctico
 
 //Llamamos a la librería axios para realizar peticiones
 const axios = require( 'axios' );
@@ -29,4 +29,5 @@ axios.post( direccion, datos, {
 })
 //Accedemos al atributo que contiene el texto traducido
 .then( respuesta => console.log( respuesta.data[0].translations[0].text ))
+//Obtenemos el error que puede existir en la petición
 .catch( error => console.log( error ));
