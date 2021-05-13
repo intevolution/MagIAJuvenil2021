@@ -1,0 +1,9 @@
+Llaves y puntos de acceso utilizados en la sesión 8 del módulo 4
+
+------Servicio Cognitivo de Análisis de textos------
+
+Región: Centro Sur EU 
+
+Llave: 8b4c7829af844bc699425c01e131246a
+
+Punto de Acceso: https://servicioanalisistexto.cognitiveservices.azure.com/
