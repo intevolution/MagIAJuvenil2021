@@ -1,0 +1,8 @@
+Url: https://servicioanalisistexto.cognitiveservices.azure.com/text/analytics/v3.0/KeyPhrases
+
+Content-Type: application/json
+
+Ocp-Apim-Subscription-Key: 8b4c7829af844bc699425c01e131246a
+
+
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction
