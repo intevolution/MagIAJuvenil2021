@@ -15,3 +15,6 @@ https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos
 
 //Reconocimiento de entidades
 https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking?tabs=version-3-preview
+
+//Idiomas soportados por el servicio de análisis de texto
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/language-support?tabs=sentiment-analysis
